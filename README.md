@@ -24,11 +24,6 @@ A modern, professional digital tasbeeh counter built with vanilla HTML, CSS, and
 3. Copy each file to its location
 4. Open `index.html` in browser
 
-## 📁 Structure
-tasbeeh-pro/ ├── index.html ├── manifest.json ├── sw.js ├── css/style.css └── js/app.js
-
-
-
 ## ⌨️ Shortcuts
 
 | Key | Action |
